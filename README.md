@@ -13,4 +13,6 @@ I completed Datacom Cybersecurity Job Simulation on Forage. In the simulation I:
  * Investigated a cyberattack and produced a comprehensive report documenting
    findings and outlining key recommendations to improve a client's
    cybersecurity posture
- * Conducted a comprehensive risk assessment
+ * Conducted a comprehensive risk assessment.
+
+Check attachments for more details about the projects.
